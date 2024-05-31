@@ -1,4 +1,4 @@
-Feature: Choose a Plan
+Feature: Pricing To Choose a plan
   I as a user want to choose a plan
   For strategic planning and business intelligence software
 
