@@ -84,7 +84,6 @@ Proporciona herramientas para la gestión de espacios de trabajo, escribir, desp
 Inicialmente se levantaron los flujos de cada transacción, para conocer el negocio y tener claro que se debia automatizar.
 Una vez claro el alcance se procede con la automatización de las transacciones, para esto se decide automatizar por capas front.
 
-El front es proporcionado por BlankFactor.
 ### La versión utilizada Java y Gradle
 ---
 Para correr el proyecto se necesita Java JDK 17 o superior y Gradle preferiblemente con la versión 8.2 o superior
