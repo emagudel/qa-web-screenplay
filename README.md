@@ -18,7 +18,7 @@ gradle clean test --tests "RUTA DEL RUNNER" aggregate -i
 
 Ejemplo:
 
-gradle clean test --tests com.reto.runners.PricingRunner aggregate -i
+gradle clean test --tests com.reto.runners.PricingToChoosePlanRunner aggregate -i
 
 
 ### El framework

@@ -2,7 +2,6 @@ package com.reto.stepdefinitions;
 
 import com.reto.models.DataManager;
 import com.reto.tasks.*;
-import com.reto.util.RandomNumber;
 import io.cucumber.java.Before;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
@@ -16,7 +15,7 @@ import net.serenitybdd.screenplay.ensure.Ensure;
 import static net.serenitybdd.screenplay.actors.OnStage.theActorCalled;
 import static net.serenitybdd.screenplay.actors.OnStage.theActorInTheSpotlight;
 
-public class PricingStepDefinition {
+public class PricingToChoosePlanStepDefinition {
 
     @Before
     public void prepareStage() {

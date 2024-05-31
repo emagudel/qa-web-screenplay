@@ -6,9 +6,9 @@ import org.junit.runner.RunWith;
 
 @RunWith(CucumberWithSerenity.class)
 @CucumberOptions(
-        features = "src/test/resources/features/pricing_to_choose _a_plan.feature",
+        features = "src/test/resources/features/pricing_to_choose_plan.feature",
         glue = "com.reto.stepdefinitions",
         snippets = CucumberOptions.SnippetType.CAMELCASE
 )
-public class PricingRunner {
+public class PricingToChoosePlanRunner {
 }
